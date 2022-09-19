@@ -1,1 +1,1 @@
-number = ( "+2348039842795")
+number = ( "your phone number")
