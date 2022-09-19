@@ -5,7 +5,7 @@ import geocoder
 from myNumber import number
 from phonenumbers import geocoder
 
-key = 'd216b678c0894cb58d027a3237c0b01a'
+key = 'your API KEY from Opencage'
 
 danNumber = phonenumbers.parse(number)
 
